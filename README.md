@@ -1,2 +1,2 @@
 # delivery-driver
-My first 2D Unity video game
+My first 2D Unity demo video game
